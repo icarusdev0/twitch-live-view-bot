@@ -14,11 +14,11 @@ Discord integration twitch live view bot stable
 ### All updated and all included (tokens, proxies etc..)
 
 
-## *discord.gg/icarus*
+## *discord.gg/myTu9WRC9M*
 
 # for tutorial you can check my youtube channel 
 
-https://youtube.com/@Icarus0
+https://youtube.com/@AlfredToolsBack
 
 ![image](https://github.com/user-attachments/assets/25f5c88d-70da-46f7-bc61-445de781663e)
 
