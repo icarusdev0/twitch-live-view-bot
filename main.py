@@ -20,7 +20,7 @@ def main():
     
     print(Fore.YELLOW + "This is an adversite app not real software! If you wanna contact with us come our discord server.\n")
     
-    discord_url = "discord.gg/icarus"
+    discord_url = "discord.gg/myTu9WRC9M"
     print(Fore.CYAN + "Our Server: ", end="")
     
     colors = [Fore.MAGENTA]
@@ -36,28 +36,28 @@ if __name__ == "__main__":
     main()
 
 
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
-###### DISCORD.GG/ICARUS
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
+###### DISCORD.GG/myTu9WRC9M
 
